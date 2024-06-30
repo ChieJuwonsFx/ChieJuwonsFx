@@ -1,16 +1,20 @@
 ## Hi there 👋
+# Richie Olajuwon Santoso
 
-<!--
-**ChieJuwonsFx/ChieJuwonsFx** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Hi there! I am Richie Olajuwon Santoso, a student who is interested in data science who likes finding data patterns and looking for relationships between data. I have a strong interest in technology, especially in databases, data and data processing.
 
-Here are some ideas to get you started:
+## 🔧 Teknologi dan Alat
+- **Bahasa Pemrograman**: Python, JavaScript
+- **Database**: MySQL, PostgreSQL
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🌱 Saat Ini Sedang Mempelajari
+- Front-End Web Development
+- UI/UX Design
+- Data Science
+  
+## 📫 Hubungi Saya
+- **Email**: [richieolajuwons@gmail.com](mailto:richieolajuwons@gmail.com)
+- **Instagram**: [@rchieee__](https://www.instagram.com/rchieee__)
+- **LinkedIn**: [https://www.linkedin.com/in/richie-olajuwon-santoso](https://www.linkedin.com/in/richie-olajuwon-santoso)
+
+Thanks for visiting my profile! Feel free to get in touch.
