@@ -32,7 +32,7 @@ I am a student who is interested in data science who likes finding data patterns
 [![Email](https://img.shields.io/badge/Email-%23D14836.svg?logo=Gmail&logoColor=white)](mailto:richieolajuwons@gmail.com)
 
 
-# 📊 GitHub Stats:
+## 📊 GitHub Stats:
 <p align="center">
   <a href="https://github.com/ChieJuwonsFx">
     <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=ChieJuwonsFx&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
