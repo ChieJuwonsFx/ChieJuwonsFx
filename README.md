@@ -1,4 +1,4 @@
-<h1 align="center">Hi There 👋</h1>
+<h1 align="center">Hi There! 👋</h1>
 <h3 align="center">I'm Richie Olajuwon Santoso</h3>
 I am a student who is interested in data science who likes finding data patterns and looking for relationships between data. I have a strong interest in technology, especially in databases, data and data processing.
 
