@@ -39,10 +39,9 @@ I am a student who is interested in data science who likes finding data patterns
   <a href="https://github.com/ChieJuwonsFx">
     <img height="160em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=ChieJuwonsFx&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
     <img height="160em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=ChieJuwonsFx&layout=compact&langs_count=8&theme=algolia"/>
+    <img height="160em" src="https://github-readme-streak-stats.herokuapp.com/?user=ChieJuwonsFx&theme=radical&hide_border=false"/>
   </a>
 </p>
-
-![](https://github-readme-streak-stats.herokuapp.com/?user=ChieJuwonsFx&theme=radical&hide_border=false)
 
 
 
