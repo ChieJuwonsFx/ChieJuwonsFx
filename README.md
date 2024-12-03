@@ -43,7 +43,7 @@ I am a student who is interested in data science who likes finding data patterns
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=ChieJuwonsFx&theme=tokyonight&date_format=j%20M%5B%20Y%5D" alt="Streak Stats">
+ ![](https://github-readme-streak-stats.herokuapp.com/?user=ChieJuwonsFx&theme=radical&hide_border=false)<br/>
 </p>
 
 
