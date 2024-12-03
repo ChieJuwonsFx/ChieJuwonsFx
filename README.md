@@ -42,9 +42,8 @@ I am a student who is interested in data science who likes finding data patterns
   </a>
 </p>
 
-<p align="center">
- ![](https://github-readme-streak-stats.herokuapp.com/?user=ChieJuwonsFx&theme=radical&hide_border=false)<br/>
-</p>
+![](https://github-readme-streak-stats.herokuapp.com/?user=ChieJuwonsFx&theme=radical&hide_border=false)<br/>
+
 
 
 
