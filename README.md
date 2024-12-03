@@ -43,8 +43,9 @@ I am a student who is interested in data science who likes finding data patterns
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=ChieJuwonsFx&theme=tokyonight&date_format=j%20M%5B%20Y%5D">
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=ChieJuwonsFx&theme=tokyonight&date_format=j%20M%5B%20Y%5D" alt="Streak Stats">
 </p>
+
 
 
 <h2 align="center">Thanks for visiting my profile! Feel free to get in touch. 👋</h2>
