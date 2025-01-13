@@ -45,6 +45,5 @@ I am a student who is interested in data science who likes finding data patterns
 
 
 
-
-
 <h2 align="center">Thanks for visiting my profile! Feel free to get in touch. 👋</h2>
+
