@@ -1,5 +1,5 @@
 <h1 align="center">Hi There! 👋</h1>
-<h3 align="center">I'm Richie Olajuwon Santoso</h3>
+<h3 align="center">I'm Richie Olajuwon Santoso</h3> 
 
 ## 🌱 Saat Ini Sedang Mempelajari
 ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white) 
